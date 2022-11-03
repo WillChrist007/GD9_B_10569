@@ -2,6 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     package="com.william.gd8_accelerometer_b_10569">
+    <uses-permission android:name="android.permission.HIGH_SAMPLING_RATE_SENSORS"/>
 
     <application
         android:allowBackup="true"
